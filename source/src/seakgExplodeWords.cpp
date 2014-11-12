@@ -1,3 +1,8 @@
+/*
+	Copyright (c) 2014
+	Evgenii Sopov (mrseakg@gmail.com)
+*/
+
 #include "seakgExplodeWords.h"
 #include <iostream>
 #include <QCoreApplication>

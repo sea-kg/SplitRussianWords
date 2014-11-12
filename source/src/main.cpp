@@ -1,3 +1,8 @@
+/*
+	Copyright (c) 2014
+	Evgenii Sopov (mrseakg@gmail.com)
+*/
+
 #include <QCoreApplication>
 #include <QMap>
 #include <QTextCodec> // подключение класса кодека текста

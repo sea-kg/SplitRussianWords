@@ -1,11 +1,13 @@
-// ---------------------------------------------------------------------------
+/*
+	Copyright (c) 2014
+	Evgenii Sopov (mrseakg@gmail.com)
+*/
 
 #ifndef seakgExplodeWordsH
 #define seakgExplodeWordsH
-// ---------------------------------------------------------------------------
+
 #include <QString>
 #include <QVector>
-
 
 enum typeSimbol {
 	simbUnknown = 0,
